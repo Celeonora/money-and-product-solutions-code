@@ -1,0 +1,38 @@
+number,title,state,labels,assignee,user,created_at,closed_at,comments
+37,[May 2025] Balance - Request for return on received debit: ymnw1t-j7.myshopify.com,open,[],SarahDono,SarahDono,2025-05-20 16:02:43,,0
+36,May 2025 | Refunds/ Credits for Incorrect Shopify Tax Filing Charges,open,['help wanted'],FionnualaW,anyacasey,2025-05-20 08:45:23,,0
+35,Balance- Identity Verification via Stripe (IDV),open,['enhancement'],SarahDono,SarahDono,2025-05-16 13:23:40,,0
+34,Capital- Pain point with standard balance letter,open,['Merchant facing change'],SarahDono,SarahDono,2025-05-16 11:33:29,,1
+33,Balance - Complete Bank Migration by closing accounts at Evolve Bank,open,['enhancement'],SarahDono,SarahDono,2025-05-16 09:44:24,,1
+32,Stream One Money Topic Launch Pilot,open,[],SarahDono,SarahDono,2025-05-13 14:42:03,,2
+31,May 2025 | Updates for Shopify Tax Filing (Process Review Needed),open,[],anyacasey,anyacasey,2025-05-06 13:56:47,,4
+30,clarification on ACH reversal requests for 5/3rd accounts,open,[],SarahDono,SarahDono,2025-04-04 15:31:31,,1
+29,Handling Compromised Shopify Credit Accounts - Process Clarification,open,['documentation'],SarahDono,SarahDono,2025-04-03 17:47:22,,1
+28,Balance issue: Payout destination Update not syncing,closed,['Bug'],SarahDono,SarahDono,2025-04-02 13:19:32,2025-05-15 13:13:41,5
+27,Originating Fee Adjustments outreach request,closed,['Merchant facing change'],SarahDono,SarahDono,2025-03-26 17:22:37,2025-03-26 18:02:02,2
+26,Celtic Complaints from Stripe March 2025,closed,[],SarahDono,SarahDono,2025-03-20 08:50:00,2025-05-15 13:15:07,4
+25,Balance Business URL Enforcement,closed,['Bug'],SarahDono,SarahDono,2025-03-19 08:51:37,2025-04-17 10:38:03,2
+24,Mission X: Support Delivery Topics Assessment,open,[],SarahDono,SarahDono,2025-03-10 13:40:36,,1
+23,Multi escalations retro,closed,['SEV-3'],SarahDono,SarahDono,2025-03-04 08:55:29,2025-05-20 11:01:02,1
+22,New Process for Enabling Stripe Requests,closed,['Support facing change'],EmmaPhelan,SarahDono,2025-02-26 14:25:26,2025-04-03 18:04:46,2
+21,Stripe request info about a SP rejection Feb 19/2025,closed,['SEV-5'],SarahDono,SarahDono,2025-02-19 19:33:49,2025-02-24 11:09:04,2
+20,[Feb 2025] Balance - Rejections on Frozen/Cancelled stores,open,['SEV-3'],SarahDono,SarahDono,2025-02-19 09:23:47,,2
+19,1099k/ Info Update Tickets in Stream One | Batch Doc Requests,closed,['help wanted'],anyacasey,anyacasey,2025-02-18 13:13:14,2025-05-06 14:30:29,8
+18,[Nov 2024] Money - Money Matters 360 Sprint- Process Optimization,open,"['SEV-1', 'Support facing change']",SarahDono,SarahDono,2024-11-26 13:10:14,,22
+17,[Nov 2024] Balance: 5/3rd Migration,open,[],SarahDono,SarahDono,2024-11-04 10:49:34,,4
+16,Decide where Google/Meta/Amazon Dev support topics are going,open,[],alanya-at,FionnualaW,2024-10-02 16:41:29,,0
+15,Reliefs Program Review,closed,[],EmmaPhelan,EmmaPhelan,2024-10-02 10:44:37,2025-02-13 13:05:03,1
+14,[SP US] Enable KYC for multiple processors,closed,[],EmmaPhelan,shantelhordos,2024-09-24 17:12:41,2024-12-18 15:58:23,1
+13,Abacus Sunset < moving to Services Internal,closed,[],,shantelhordos,2024-09-19 21:52:41,2024-12-17 13:55:40,3
+12,Shopify Tax EU/UK,closed,"['enhancement', 'Merchant facing change']",FionnualaW,shantelhordos,2024-09-19 18:11:03,2025-04-03 08:06:25,8
+11,Multi-Currency Payouts on Shopify Payments,closed,[],EmmaPhelan,shantelhordos,2024-09-12 17:31:02,2025-02-13 12:51:47,2
+10,Experiment: Enhanced Billing Training Program for Performance Improvement in Support Teams,closed,[],SarahDono,SarahDono,2024-09-05 09:24:45,2025-05-13 13:39:52,4
+9,Billing & Payments Training,closed,[],EmmaPhelan,SarahDono,2024-09-04 12:29:17,2024-10-21 15:11:15,5
+8,[MTS] PayPal as a Secondary Provider,closed,[],anyacasey,shantelhordos,2024-09-03 20:40:33,2025-05-02 13:16:45,5
+7,TY 2024 Prep and Automating TIN Checks,closed,"['enhancement', 'Merchant facing change']",anyacasey,shantelhordos,2024-08-28 20:47:16,2025-02-28 15:01:05,6
+6,Re-routing Partner Concierge,closed,['critical-infra-change'],FionnualaW,FionnualaW,2024-08-21 15:07:24,2024-12-17 13:28:22,2
+5,[Aug 6/24] Affirm status: unrequested,closed,[],EmmaPhelan,shantelhordos,2024-08-07 15:24:44,2025-02-13 12:56:50,4
+4,Money Delivery Funnel Revamp,closed,[],SarahDono,SarahDono,2024-08-01 17:29:29,2025-02-19 14:22:01,8
+3,Incident Management Plan,closed,[],FionnualaW,shantelhordos,2024-07-23 18:50:35,2025-04-03 08:12:13,9
+2,Operationalise Partners Support,closed,"['Support facing change', 'Merchant facing change']",Celeonora,FionnualaW,2024-07-17 14:22:47,2024-12-17 13:13:26,3
+1,Change a created email address and create a new email address for Managed Markets,closed,[],FionnualaW,FionnualaW,2024-07-04 13:11:11,2024-07-04 13:14:21,1

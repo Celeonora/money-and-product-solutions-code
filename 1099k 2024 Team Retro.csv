@@ -1,0 +1,157 @@
+Content,Created by
+'@Weiyi Yin and @Kevin Ardian  for leading discussions with Thomson Reuters on integration and expectations on what the forms should look like,Ace Subido
+"'@Chris Ermel ‘s dedication to the project was amazing. He was always helpful, willing to pair on things he knew nothing about, and availabe to brainstorm ideas",Weiyi Yin
+'@Ahmad Dandachi for his initial scoping and leadership that focused on quality and asking the right questions with Thomson Reuters on Nov-Jan,Ace Subido
+"'@Kevin Norring ‘s organized approach to leading and tracking the process, deadlines, and making decisions really helped us get to the finish line.",Weiyi Yin
+'@Weiyi Yin  for really owning the data eng effort. I felt confident he know the ins-and-outs of how we interacted with each partner,Ahmad Dandachi
+'@Devin Asaro for paving the comms path for payments with this project,Weiyi Yin
+"To the many developers that got involved for a limited amount of time dealing with specific issues or helping speed things up (Nabeel, Eno, Jackson, Abdu etc)",Adrian Augustyn
+'@Kevin Norring for keeping all these threads together,Ace Subido
+"@Chris Ermel 
+you know it, you know it. ownership role model.",Ace Subido
+Chris - this project went 3x longer (maybe 4x) than expected. Thank you for continuing to show up everyday and getting shit done,Kevin Norring
+"'@Aine Casey for leading the MTS effort, surfacing all the insights from support tickets back to the RnD team, and helping us grind down all the manual processes that come with this project",Weiyi Yin
+"'@Kevin Norring @Weiyi Yin @Chris Ermel always open to support and merchant feedback and making time for support concerns, especially when some of us were just ramping up on tax and needed a little more hand holding",Aine Casey
+Ace - you jumped in at various points in the program and GSD’d like a pro,Kevin Norring
+'@Kevin Norring was brilliant at keeping support updated at all stages and including us in the important conversations so we could prepare the frontline teams,Fionnuala (Lulu) Wilkins
+'@Chris Ermel and @Ace Subido for rolling with increased scope on a tight timeline — coming up with creative ways to meet the quality bar for merchants,Devin Asaro
+"Wei - I can’t say thank you enough. this thing was a beast. 
+
+this program would never be where it is today without your knowledge and dedication",Kevin Norring
+"The entire MTS team. This wouldn’t be possible with you folks, and all the knowledge and context you bring",Weiyi Yin
+"Lorena, Aine, Tasha, and Lulu - I must have asked you the same questions 10 times throughout the season, but you always had a good attitude and answered my questions with insightful answers",Kevin Norring
+'@Natasha Nally for her keen eye and attention to detail that helped us catch so many bugs,Weiyi Yin
+"Aine, Tasha, Lulu - you all rolled with the ups and downs so well, and there were a lot of them this year",Kevin Norring
+Shoutouts to @Weiyi Yin for all the hours that went into the SDP pipeline -- handled all that complexity with grace,Chris Ermel
+THanks to Ahmad Ace and Hugo for helping in the prototyping to disambiguate the project scope,Chris Ermel
+Chris advocating for the need for more support.  At one point he was the only dev on the project which was not setting us up for success,Ashton Feher
+"Kevin for advocating for the merchant experience
+
+Taking ownership and making good product decisions",Ashton Feher
+Ramanan - you got in the weeds as always and helped drive decisions . Thank you for always being willing to pair and talk through issues/scope,Kevin Norring
+'@Ace Subido and @Devin Asaro for helping wrangle the massive UX undertaking that was this project -- would’ve been lost on my own,Chris Ermel
+"Great impact, the process massively improved over the previous year",Adrian Augustyn
+Good basis for further investment,Adrian Augustyn
+We standardized the process of sending data to TR and built ways to send adhoc. This is HUGE!,Weiyi Yin
+Bursts useful for prototyping.  Should we use it even more? To kick things off or discuss new requirements?,Adrian Augustyn
+This year’s changes allowed us to simplify our 1099k support processes so that we can handle bigger volumes more efficiently,Aine Casey
+We found ways to use our tooling and platform to make things work and didn’t get bogged down too much on the details,Ahmad Dandachi
+“What went well”  Happy that the Mozart team was sooo understanding!,Ace Subido
+the merchant experience massively upgraded. before this year merchants had to fill out a pdf,Kevin Norring
+"“What went well?”  Support, Data, UX and Eng were very tight. Dashboards were  dependable, the integrations were predictable.
+
+Any buggy integration with Alloy was quickly detected by data, reported by support and fixed by eng.",Ace Subido
+Great little team! We all worked very well together throughout,Aine Casey
+The communication between Support/product/devs was really helpful and informative and helped us have the frontline teams notified on what to expect and ready to go,Fionnuala (Lulu) Wilkins
+Delivered forms earlier this year!!!,Chris Ermel
+IRIS error count is 3k. I believe the 2022 error count was also ~3k. Win since the reporting threshold decreased from 20k to 5k,Kevin Norring
+The enable tin check form!,Aine Casey
+Limited continuity between 1099K effort in previous years and this year,Ahmad Dandachi
+1099K work was not prioritized immediately after tax season the previous year  Happy to see this changed already!,Ahmad Dandachi
+Spread eng and data across too many important initiatives,Kevin Norring
+P0s shouldn’t have just one contributor from each craft,Kevin Norring
+"The project was initially broken into several pieces across teams, when it was consolidated we could have done a better job investigating the additional scope",Ahmad Dandachi
+"What didn’t go well  “Continuity” :D from an engineering/execution standpoint hard to fit pieces together when context is spread across N teams.
+
+For example: only learned about TR Insomnia file during Jan 31 Form Generation. Maybe I should have asked earlier though",Ace Subido
+"Shared resources across Canada ORR and 1099k
+
+Two major events that required dedicated teams/focus
+",Ashton Feher
+We needed more rigorous checking / validations / reconciliation for all things we built here. This checking process should include all RnD and non RnD folks,Weiyi Yin
+the scope was too optimistic. 2025 needs to be more aware and start the investment during the summer,Kevin Norring
+It doesn’t feel like (to me) SP taxes truly has a home yet (eng),Chris Ermel
+The fragmented nature of our system made this process way harder than it needs to be,Weiyi Yin
+We didn’t quite know how to react to ever expanding scope to better organise the project,Adrian Augustyn
+"Should have had more push back on IF this is something Shopify should own, and IF now is the right time.
+
+and IF this is the right team",Ashton Feher
+Decisions like “Next stack only” for projets that are upstream of 1099K have unintended consequences on the 1099K process that make it really hard,Weiyi Yin
+"I think I needed more consistent help throughout the course of this project, and possibly could have gotten some help from folks with context in other components that interact with payments",Chris Ermel
+Merchant comms issues - duplicated/ additional emails to say updated forms are ready when no changes were made. Merchants who did not qualify seeing notifications that form will be ready in 5 days,Aine Casey
+Manual reachouts - more time to plan/ resource,Aine Casey
+We just didn’t have enough expertise to do this well at a level of quality we would like to ship at. We were learning tax context as we shipped.,Ramanan Sampath
+"We were still learning the support process as we were building things, sometimes what we learned invalidated what was already built",Ahmad Dandachi
+'@Ashton Feher  Identifying long-term owners for 1099k (or wider?),Adrian Augustyn
+@Adrian Augustyn   Involve non-RnD Tax experts during the RnD process,Adrian Augustyn
+'@Lorena Lencina SME as a Key Stakeholder managing the important requirements,Adrian Augustyn
+"'@Kevin Norring Start 2025 work asap, so that we don’t lose context and have the time for improvements",Adrian Augustyn
+@Adrian Augustyn  organise a kick-off burst for 1099 2025 work (cross teams not only RnD),Adrian Augustyn
+'@Adrian Augustyn  IF the work moves to another team organise solid handover,Adrian Augustyn
+"“What went well?”
+Montreal Burst really went well!
+Hugo/Ahmad/Ace/Chris/Wei prototyping in a room
+",Ace Subido
+"“What should have happened!”
+Initial emails on Staff shops that need to remediate 1099ks!
+Most notifications should be done!",Ace Subido
+"“What actually happened”
+we sent a tiny batch to Staff Shops
+post-BFCM merge tooling change
+moving from spin to local dev
+introduction of risk assessments
+had to ask prioritization of PRs in the merge queue
+crippled dev velocity bad",Ace Subido
+Initial project scoping and estimate,Chris Ermel
+Initial Prototyping and re-estimation,Chris Ermel
+"Content design work began, rewriting all comms",Devin Asaro
+Prototyping Burst w/ UX and SPAM,Chris Ermel
+Burst kicked off prototyping data pipeline builds with eng,Weiyi Yin
+Ace / Ahmad rolled off the project,Ahmad Dandachi
+"Adhoc / 1 time data loads to TR took up data time from building the automation. We met deadlines for 1st bulk tincheck, but delayed automation builds",Weiyi Yin
+Canada ORR incident #1 happened,Chris Ermel
+Post-prototype project completion estimation date was around here,Chris Ermel
+Should have happened: Project completion pre-BFCM,Ahmad Dandachi
+1099ks shipped to merchants + form available emails,Chris Ermel
+What should have happened  Begin bad TIN remediation,Aine Casey
+"Data automation builds were in full swing; however, still supporting a lot of adhoc data requests for data quality issues",Weiyi Yin
+"“What actually happened.”
+ScheduledAccountLimitation tables and code were starting to roll out!
+New listeners and jobs were on the way
+BUT the BFCM code chill started happening sooner than expected
+",Ace Subido
+Initial scope estimated at 6 weeks,Adrian Augustyn
+incident,Kevin Norring
+Business Platform + Core infinite loop incident,Chris Ermel
+"1099M scope increase, slightly annoying but brought an additional data resource which was helpful",Weiyi Yin
+UX scope grew following Vault transition request,Chris Ermel
+new remediations from TR report,Kevin Norring
+Manual outreach required for merchants who had not migrated to PAP,Aine Casey
+dead plans remediation rollout,Kevin Norring
+Completed data automation builds,Weiyi Yin
+Added more project contributors to help tackle UX scope,Chris Ermel
+We started identifying the details of different workflows,Ramanan Sampath
+IRIS submission results > 3k errors,Kevin Norring
+"“What should have happened!”
+Build: All 1099k notifications should be built!
+Sending Notifications: Should be ready to send notifications tail end of January!",Ace Subido
+"Payout holds project starts to explode and takes data resources away from 1099K
+
+Slightly related as 1099K also contributed to payout holds",Weiyi Yin
+File with IRS,Kevin Norring
+What should have happened  Better solution for this population prior to project kick off,Aine Casey
+Took several weeks to align stakeholders on the plan because of how geographically spread everyone was,Ramanan Sampath
+Should have happened: Initial project scoping and estimate,Ahmad Dandachi
+Bugs around numbers not matching begin to surface,Weiyi Yin
+tax reporting preference,Kevin Norring
+Bugs for numbers not matching are fixed and addressed,Weiyi Yin
+BFCM put a pause on our ability to ship,Ramanan Sampath
+Maintenance tasks to help deal with migrated SP data,Chris Ermel
+Adam was running into issues running bulk TIN checks because of constraints with the IRS systems,Ramanan Sampath
+Learned that TR doesn’t have a way to identify when a merchant is above the state filing threshold but under the federal filing threshold,Chris Ermel
+Discrepancies reported with 1099k admin export - what should have happened at this time (late Feb) was further investigation,Aine Casey
+Balance discovered that they needed to issue 1099-Misc to merchants and wanted to leverage our work for that,Ramanan Sampath
+Alloy tin check integration completed,Chris Ermel
+New deployment pipeline with consistent changes slowing us down,Chris Ermel
+Canada ORR incident #2 happened,Chris Ermel
+New deployment pipeline with consistent changes slowing us down,Chris Ermel
+New deployment pipeline with consistent changes slowing us down,Chris Ermel
+New deployment pipeline with consistent changes slowing us down,Chris Ermel
+'+1 -- BFCM code freeze was extended this year in comparison to previous years,Chris Ermel
+We didn’t check whether the 1099K values reconciled against the values from the in-admin txn exporter.,Ramanan Sampath
+File with IRS,Kevin Norring
+"We were still scoping out the plan for providing 1099 forms for shops that didn’t have access to their Shopify admin e.g., shops that were closed, cancelled etc",Ramanan Sampath
+TIN check subproject marked as done,Chris Ermel
+We were still collecting W9s from merchants who we remediated manually. We didn’t change our support process to reflect that we didn’t need to.,Ramanan Sampath
+Begin preparing doc with scope for 2025,Chris Ermel
+We realized late that it would take several days to download all the 1099K forms to merchants’ admin because of limitations on Thomson Reuters.,Ramanan Sampath
